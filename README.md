@@ -1,2 +1,4 @@
-# plain
-a wordpress theme
+Plain
+----
+
+A WordPress Theme
